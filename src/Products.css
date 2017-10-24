@@ -1,0 +1,15 @@
+.productContainer {
+  height: 150px;
+  width: 200px;
+  margin: 20px;
+  float: left;
+  font-size: 11px;
+  border-style: 1px;
+  border: 1px solid black;
+  padding: 15px;
+  margin: 20px;
+}
+
+.productTitle {
+  margin: 17px;
+}
